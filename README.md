@@ -1,6 +1,6 @@
 # Angular Essential Training
 
-This is the repository for my course **Angular Essential Training**  
+This is a repository clone for the course **Angular Essential Training**  
 The full course is available at [LinkedIn Learning](https://www.linkedin.com/learning) and [lynda.com](https://lynda.com).  
 [LinkedIn Learning subscribers: watch here](https://www.linkedin.com/learning/angular-2-essential-training-2)  
 [Lynda.com subscribers: watch here](https://www.lynda.com/AngularJS-tutorials/Angular-2-Essential-Training/540347-2.html)  
